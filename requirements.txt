@@ -1,10 +1,8 @@
-matplotlib
 scikeras
-streamlit
-pandas
-numpy
-scikit-learn
-tensorflow-cpu==2.15.0
 tensorboard
-setuptools
-wheel
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+tensorflow-cpu==2.15.0
